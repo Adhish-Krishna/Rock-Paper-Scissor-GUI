@@ -1,7 +1,7 @@
 
 # Rock Paper Scissors Game
 
-This is a simple Rock Paper Scissors game created using Python and the Tkinter library for the graphical user interface (GUI). The game allows a player to compete against the computer with random move generation.
+This is a simple Rock Paper Scissors game created using Python and the Tkinter library for the graphical user interface (GUI). The game allows a player to compete against the computer with random move generation. I did this project in my 12th grade.
 
 ## Features
 - **User-friendly GUI**: Built with the Tkinter library.
